@@ -1,0 +1,60 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.059619073992884,-1.775645720613874 ]
+    },
+    "properties": {
+    "number":1,
+    "name":"A Prospect in Dove-Dale 3 Miles North of Ashbourn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.08020084047631,-1.788239786508394 ]
+    },
+    "properties": {
+    "number":2,
+    "name":"A Prospect in the upper part of Dove-Dale, five miles North of Ashbourn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.102931421598214,-1.8584541024905534 ]
+    },
+    "properties": {
+    "number":3,
+    "name":"A Prospect on the River Manyfold, at Wetton-Mill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.11926134527243,-1.5611720821366804 ]
+    },
+    "properties": {
+    "number":4,
+    "name":"A Prospect of Matlock-Bath &c from the Lover&apos;s Walk"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.11819610613289,-1.5818767534452536 ]
+    },
+    "properties": {
+    "number":5,
+    "name":"A Prospect of that beautiful cascade before Matlock Bath"
+    }
+  }
+]
+}
