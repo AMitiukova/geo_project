@@ -5,55 +5,360 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.059619073992884,-1.775645720613874 ]
+       "coordinates":  [ -1.775645720613874,53.059619073992884 ]
     },
     "properties": {
-    "number":1,
-    "name":"A Prospect in Dove-Dale 3 Miles North of Ashbourn"
+    "������������":"A Prospect in Dove-Dale 3 Miles North of Ashbourn"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.08020084047631,-1.788239786508394 ]
+       "coordinates":  [ -1.788239786508394,53.08020084047631 ]
     },
     "properties": {
-    "number":2,
-    "name":"A Prospect in the upper part of Dove-Dale, five miles North of Ashbourn"
+    "������������":"A Prospect in the upper part of Dove-Dale, five miles North of Ashbourn"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.102931421598214,-1.8584541024905534 ]
+       "coordinates":  [ -1.8584541024905534,53.102931421598214 ]
     },
     "properties": {
-    "number":3,
-    "name":"A Prospect on the River Manyfold, at Wetton-Mill"
+    "������������":"A Prospect on the River Manyfold, at Wetton-Mill"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.11926134527243,-1.5611720821366804 ]
+       "coordinates":  [ -1.5611720821366804,53.11926134527243 ]
     },
     "properties": {
-    "number":4,
-    "name":"A Prospect of Matlock-Bath &c from the Lover&apos;s Walk"
+    "������������":"A Prospect of Matlock-Bath &c from the Lover&apos;s Walk"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.11819610613289,-1.5818767534452536 ]
+       "coordinates":  [ -1.5818767534452536,53.11819610613289 ]
     },
     "properties": {
-    "number":5,
-    "name":"A Prospect of that beautiful cascade before Matlock Bath"
+    "������������":"A Prospect of that beautiful cascade before Matlock Bath"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.7282643507241067,53.241494898472375 ]
+    },
+    "properties": {
+    "������������":"A Prospect on the River Wie, in Monsal-Dale Two Miles North-West of Bakewell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.8197065153445253,53.25276025950707 ]
+    },
+    "properties": {
+    "������������":"A Prospect on the Chee-Torr &c. on the River Wie, two miles below Buxton."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.7783745908832145,53.34117914257739 ]
+    },
+    "properties": {
+    "������������":"A Prospect of the rocks & that vast cavern at Castleton call&apos;d Peak-hole, alias the D-l&apos;s A-se"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.611490446960619,53.227745096797115 ]
+    },
+    "properties": {
+    "������������":"A South-West View of Chatsworth & a beautiful Seat of his Grace the Duke of Devonshire"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.6115977353219326,53.22768087009881 ]
+    },
+    "properties": {
+    "������������":"A South-West View of Chatsworth & a beautiful Seat of his Grace the Duke of Devonshire"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.650605228836131,53.194248437083836 ]
+    },
+    "properties": {
+    "������������":"A North West View of Haddon & c an Ancient Seat belonging to his Grace the Duke of Rutland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.336742335301154,52.84601478705358 ]
+    },
+    "properties": {
+    "������������":"A view of Dunnington Cliff"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.3445719300516328,52.84940841881195 ]
+    },
+    "properties": {
+    "������������":"A view of Dunnington Cliff"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.4979925711638684,52.84162172843846 ]
+    },
+    "properties": {
+    "������������":"A View of Anchor Church."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.4868665652718336,53.01845394162846 ]
+    },
+    "properties": {
+    "������������":"A View of Hopping Mill Ware"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.0549932151983823,53.33824965132677 ]
+    },
+    "properties": {
+    "������������":"A view in Lyme-park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.5921824018529196,52.34834623018119 ]
+    },
+    "properties": {
+    "������������":"Kenilworth Castle, from the South; Situate between Warwick and Coventry"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.607856144180657,53.821704998063076 ]
+    },
+    "properties": {
+    "������������":"The South East View of Kirkstall Abbey, two miles from Leeds in Yorkshire"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.100500563991472,52.425779341927566 ]
+    },
+    "properties": {
+    "������������":"A View in Hagley Park, belonging to S:r Tho:s Lyttelton Bar.n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.6206301337928729,52.94770499655067 ]
+    },
+    "properties": {
+    "������������":"A View of the New Waterworks &c at Belton in Lincolnshire belonging to the Rt. Honble: the Lord Vist. Tyrconnel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.6331041181181705,52.69277962892151 ]
+    },
+    "properties": {
+    "������������":"A View in Exton Park belonging to the Rt: Hon.ble the Earl of Gainsborough"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.1874691288361316,54.650379359751426 ]
+    },
+    "properties": {
+    "������������":"The High force"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.130716013491606,54.07282898616608 ]
+    },
+    "properties": {
+    "������������":"Gordal, at Malham in Craven, Yorkshire"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.559148955819343,53.125235332522635 ]
+    },
+    "properties": {
+    "������������":"Matlock High-Torr &c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.5591704134912452,53.125222456460044 ]
+    },
+    "properties": {
+    "������������":"Matlock High-Torr &c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.775257654372297,53.05671031241388 ]
+    },
+    "properties": {
+    "������������":"Thorp Cloud &c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.139611560444192,54.59975030279969 ]
+    },
+    "properties": {
+    "������������":"A View of Darwentwater &c from Crow-Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0710970904594874,54.555215035897824 ]
+    },
+    "properties": {
+    "������������":"A View of Thirlmeer, &c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.3780722573840207,54.522927114198716 ]
+    },
+    "properties": {
+    "������������":"A View of Ennerdale Broadwater, &c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.951935580140223,54.37125687704964 ]
+    },
+    "properties": {
+    "������������":"A View of Windermeer"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.6325284021336555,51.469393161882316 ]
+    },
+    "properties": {
+    "������������":"A view from Durdham-down near Bristol, Looking down the Avon to Kings-Road, & the Welch Mountains"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.5818206918379065,54.10965162879204 ]
+    },
+    "properties": {
+    "������������":"Fountains Abbey, from the South-East"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.498376599630896,50.53621184807409 ]
+    },
+    "properties": {
+    "������������":"Tinmouth Castle, from the North"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.4748034846535356,54.00885160826152 ]
+    },
+    "properties": {
+    "������������":"A View of the Petrifying Spring, commonly call&apos;d The Dropping Well, &c at Knaresbrough, in Yorkshire"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.526565919835434,52.01446525313713 ]
+    },
+    "properties": {
+    "������������":"A View of the Lake of Killarney from the Park of the Right Honourable Lord Viscount Kenmare"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "������������":""
     }
   }
 ]
