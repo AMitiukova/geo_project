@@ -1,0 +1,5637 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Колизей ",
+        "Run": 1,
+        "Seats": 1000,
+        "Latitude": 55.761781,
+        "Longitude": 37.645941
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Метрополь ",
+        "Run": 1,
+        "Seats": 680,
+        "Latitude": 55.758448,
+        "Longitude": 37.621669
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Москва ",
+        "Run": 1,
+        "Seats": 747,
+        "Latitude": 55.769494,
+        "Longitude": 37.593533
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Ударник ",
+        "Run": 1,
+        "Seats": 1587,
+        "Latitude": 55.74445,
+        "Longitude": 37.613072
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Авангард ",
+        "Run": 1,
+        "Seats": 489,
+        "Latitude": 55.731779,
+        "Longitude": 37.611473
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Аврора ",
+        "Run": 3,
+        "Seats": 338,
+        "Latitude": 55.759157,
+        "Longitude": 37.645708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Арс ",
+        "Run": 2,
+        "Seats": 254,
+        "Latitude": 55.74806146601852,
+        "Longitude": 37.58749976700312
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Баррикады ",
+        "Run": 2,
+        "Seats": 441,
+        "Latitude": 55.76064794396243,
+        "Longitude": 37.579330860186516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Востоккино ",
+        "Run": 1,
+        "Seats": 443,
+        "Latitude": 55.76037895000343,
+        "Longitude": 37.61916289759364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Динамо ",
+        "Run": 1,
+        "Seats": 553,
+        "Latitude": 55.79618060753062,
+        "Longitude": 37.555168887144774
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Диск ",
+        "Run": 3,
+        "Seats": 216,
+        "Latitude": 55.809621,
+        "Longitude": 37.634416
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Заря ",
+        "Run": 3,
+        "Seats": 261,
+        "Latitude": 55.745524,
+        "Longitude": 37.626412
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "им. III Интернационала ",
+        "Run": 2,
+        "Seats": 428,
+        "Latitude": 55.77323586956071,
+        "Longitude": 37.67796359405088
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Кадр ",
+        "Run": 3,
+        "Seats": 314,
+        "Latitude": 55.74452,
+        "Longitude": 37.579277
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Кинотеатр повторного фильма ",
+        "Run": 2,
+        "Seats": 466,
+        "Latitude": 55.757288,
+        "Longitude": 37.599238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Луч ",
+        "Run": 2,
+        "Seats": 401,
+        "Latitude": 55.791681890731304,
+        "Longitude": 37.68025349659428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Мир ",
+        "Run": 2,
+        "Seats": 351,
+        "Latitude": 55.792343570876206,
+        "Longitude": 37.60394035824865
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Молот ",
+        "Run": 2,
+        "Seats": 411,
+        "Latitude": 55.785928,
+        "Longitude": 37.675828
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Наука и знание ",
+        "Run": 2,
+        "Seats": 293,
+        "Latitude": 55.752414,
+        "Longitude": 37.599597
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Новости дня ",
+        "Run": null,
+        "Seats": 280,
+        "Latitude": 55.764289709486825,
+        "Longitude": 37.60515729827925
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Октябрь ",
+        "Run": 2,
+        "Seats": 406,
+        "Latitude": 55.79929647698802,
+        "Longitude": 37.61501275297922
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Орион ",
+        "Run": 1,
+        "Seats": 707,
+        "Latitude": 55.795618,
+        "Longitude": 37.708499
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Перекоп ",
+        "Run": 1,
+        "Seats": 574,
+        "Latitude": 55.777151,
+        "Longitude": 37.638043
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "ПКиО Сокольники ",
+        "Run": 1,
+        "Seats": null,
+        "Latitude": 55.792565,
+        "Longitude": 37.677725
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Родина ",
+        "Run": 1,
+        "Seats": 1231,
+        "Latitude": 55.78157,
+        "Longitude": 37.717869
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Сад им. Баумана ",
+        "Run": 2,
+        "Seats": 500,
+        "Latitude": 55.766581,
+        "Longitude": 37.659918
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Сад Эрмитаж ",
+        "Run": 1,
+        "Seats": 689,
+        "Latitude": 55.77080510877408,
+        "Longitude": 37.60954337553044
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Смена ",
+        "Run": 2,
+        "Seats": 395,
+        "Latitude": 55.771020990551925,
+        "Longitude": 37.582989154099984
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Спартак ",
+        "Run": 2,
+        "Seats": 375,
+        "Latitude": 55.76354670647905,
+        "Longitude": 37.6548476160702
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Таганский ",
+        "Run": 1,
+        "Seats": 819,
+        "Latitude": 55.74038353434052,
+        "Longitude": 37.654197842457705
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Таганский ПКиО ",
+        "Run": 2,
+        "Seats": 602,
+        "Latitude": 55.73785783551522,
+        "Longitude": 37.67003941340802
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Театр киноактера ",
+        "Run": 1,
+        "Seats": 924,
+        "Latitude": 55.756905640786755,
+        "Longitude": 37.58698523028461
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Уран ",
+        "Run": 1,
+        "Seats": 910,
+        "Latitude": 55.77040452282041,
+        "Longitude": 37.63155372711536
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Форум ",
+        "Run": 1,
+        "Seats": 1222,
+        "Latitude": 55.773058432602916,
+        "Longitude": 37.62740330442969
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Хроника ",
+        "Run": null,
+        "Seats": 266,
+        "Latitude": 55.767124,
+        "Longitude": 37.63182
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Художественный ",
+        "Run": 1,
+        "Seats": 960,
+        "Latitude": 55.752369,
+        "Longitude": 37.602139
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Центральный ",
+        "Run": 1,
+        "Seats": 810,
+        "Latitude": 55.76592426048217,
+        "Longitude": 37.60529052843362
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "ЦПКиО им. Горького ",
+        "Run": 1,
+        "Seats": 810,
+        "Latitude": 55.73154109054722,
+        "Longitude": 37.60327706944183
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Шторм ",
+        "Run": 1,
+        "Seats": 638,
+        "Latitude": 55.78235111103543,
+        "Longitude": 37.67006121362364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Экран жизни ",
+        "Run": 1,
+        "Seats": 548,
+        "Latitude": 55.77342398078649,
+        "Longitude": 37.611662769437814
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Экспресс ",
+        "Run": 2,
+        "Seats": 230,
+        "Latitude": 55.77321250837942,
+        "Longitude": 37.620671571295084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Юный зритель ",
+        "Run": 2,
+        "Seats": 313,
+        "Latitude": 55.74853398105157,
+        "Longitude": 37.588827397745554
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Колизей ",
+        "Run": 1,
+        "Seats": 1000,
+        "Latitude": 55.761781,
+        "Longitude": 37.645941
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Метрополь ",
+        "Run": 1,
+        "Seats": 680,
+        "Latitude": 55.758448,
+        "Longitude": 37.621669
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Ударник ",
+        "Run": 1,
+        "Seats": 1587,
+        "Latitude": 55.74445,
+        "Longitude": 37.613072
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Авангард ",
+        "Run": 1,
+        "Seats": 489,
+        "Latitude": 55.731779,
+        "Longitude": 37.611473
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Аврора ",
+        "Run": 3,
+        "Seats": 338,
+        "Latitude": 55.759157,
+        "Longitude": 37.645708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Арс ",
+        "Run": 2,
+        "Seats": 254,
+        "Latitude": 55.74806146601852,
+        "Longitude": 37.58749976700312
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Баррикады ",
+        "Run": 2,
+        "Seats": 441,
+        "Latitude": 55.76064794396243,
+        "Longitude": 37.579330860186516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Динамо ",
+        "Run": 1,
+        "Seats": 553,
+        "Latitude": 55.79618060753062,
+        "Longitude": 37.555168887144774
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Диск ",
+        "Run": 3,
+        "Seats": 216,
+        "Latitude": 55.809621,
+        "Longitude": 37.634416
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Заря ",
+        "Run": 3,
+        "Seats": 261,
+        "Latitude": 55.745524,
+        "Longitude": 37.626412
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "им. III Интернационала ",
+        "Run": 2,
+        "Seats": 428,
+        "Latitude": 55.77323586956071,
+        "Longitude": 37.67796359405088
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Кадр ",
+        "Run": 3,
+        "Seats": 314,
+        "Latitude": 55.74452,
+        "Longitude": 37.579277
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Кинотеатр повторного фильма ",
+        "Run": 2,
+        "Seats": 466,
+        "Latitude": 55.757288,
+        "Longitude": 37.599238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Луч ",
+        "Run": 2,
+        "Seats": 401,
+        "Latitude": 55.791681890731304,
+        "Longitude": 37.68025349659428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Мир ",
+        "Run": 2,
+        "Seats": 351,
+        "Latitude": 55.792343570876206,
+        "Longitude": 37.60394035824865
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Молот ",
+        "Run": 2,
+        "Seats": 411,
+        "Latitude": 55.785928,
+        "Longitude": 37.675828
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Москва ",
+        "Run": 1,
+        "Seats": null,
+        "Latitude": 55.769671725991564,
+        "Longitude": 37.59471331716628
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Наука и знание ",
+        "Run": 2,
+        "Seats": 293,
+        "Latitude": 55.752414,
+        "Longitude": 37.599597
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Новости дня ",
+        "Run": null,
+        "Seats": 280,
+        "Latitude": 55.764289709486825,
+        "Longitude": 37.60515729827925
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Октябрь ",
+        "Run": 2,
+        "Seats": 406,
+        "Latitude": 55.79929647698802,
+        "Longitude": 37.61501275297922
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Орион ",
+        "Run": 1,
+        "Seats": 707,
+        "Latitude": 55.795618,
+        "Longitude": 37.708499
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Перекоп ",
+        "Run": 1,
+        "Seats": 574,
+        "Latitude": 55.777151,
+        "Longitude": 37.638043
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "ПКиО Сокольники ",
+        "Run": 1,
+        "Seats": null,
+        "Latitude": 55.792565,
+        "Longitude": 37.677725
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Родина ",
+        "Run": 1,
+        "Seats": 1231,
+        "Latitude": 55.78157,
+        "Longitude": 37.717869
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Сад Эрмитаж ",
+        "Run": 1,
+        "Seats": 689,
+        "Latitude": 55.77080510877408,
+        "Longitude": 37.60954337553044
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Салют ",
+        "Run": 1,
+        "Seats": 346,
+        "Latitude": 55.792065,
+        "Longitude": 37.575222
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Смена ",
+        "Run": 2,
+        "Seats": 395,
+        "Latitude": 55.771020990551925,
+        "Longitude": 37.582989154099984
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Спартак ",
+        "Run": 2,
+        "Seats": 375,
+        "Latitude": 55.76354670647905,
+        "Longitude": 37.6548476160702
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Стереокино ",
+        "Run": null,
+        "Seats": 180,
+        "Latitude": 55.76037895000343,
+        "Longitude": 37.61916289759364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Таганский ",
+        "Run": 1,
+        "Seats": 819,
+        "Latitude": 55.74038353434052,
+        "Longitude": 37.654197842457705
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Таганский ПКиО ",
+        "Run": 2,
+        "Seats": 602,
+        "Latitude": 55.73785783551522,
+        "Longitude": 37.67003941340802
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Театр киноактера ",
+        "Run": 1,
+        "Seats": 924,
+        "Latitude": 55.756905640786755,
+        "Longitude": 37.58698523028461
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Уран ",
+        "Run": 1,
+        "Seats": 910,
+        "Latitude": 55.77040452282041,
+        "Longitude": 37.63155372711536
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Форум ",
+        "Run": 1,
+        "Seats": 1222,
+        "Latitude": 55.773058432602916,
+        "Longitude": 37.62740330442969
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Хроника ",
+        "Run": null,
+        "Seats": 266,
+        "Latitude": 55.767124,
+        "Longitude": 37.63182
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Художественный ",
+        "Run": 1,
+        "Seats": 960,
+        "Latitude": 55.752369,
+        "Longitude": 37.602139
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Центральный ",
+        "Run": 1,
+        "Seats": 810,
+        "Latitude": 55.76592426048217,
+        "Longitude": 37.60529052843362
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "ЦПКиО им. Горького ",
+        "Run": 1,
+        "Seats": 810,
+        "Latitude": 55.73154109054722,
+        "Longitude": 37.60327706944183
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Шторм ",
+        "Run": 1,
+        "Seats": 638,
+        "Latitude": 55.78235111103543,
+        "Longitude": 37.67006121362364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Экран жизни ",
+        "Run": 1,
+        "Seats": 548,
+        "Latitude": 55.77342398078649,
+        "Longitude": 37.611662769437814
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Экспресс ",
+        "Run": 2,
+        "Seats": 230,
+        "Latitude": 55.77321250837942,
+        "Longitude": 37.620671571295084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Эрмитаж ",
+        "Run": 1,
+        "Seats": "658/36",
+        "Latitude": 55.77035848488775,
+        "Longitude": 37.60921074307702
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Юный зритель ",
+        "Run": 2,
+        "Seats": 313,
+        "Latitude": 55.74853398105157,
+        "Longitude": 37.588827397745554
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Колизей ",
+        "Run": 1,
+        "Seats": 1001,
+        "Latitude": 55.761781,
+        "Longitude": 37.645941
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Метрополь ",
+        "Run": 1,
+        "Seats": 692,
+        "Latitude": 55.758448,
+        "Longitude": 37.621669
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Ударник ",
+        "Run": 1,
+        "Seats": 1587,
+        "Latitude": 55.74445,
+        "Longitude": 37.613072
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Авангард ",
+        "Run": 1,
+        "Seats": 489,
+        "Latitude": 55.731779,
+        "Longitude": 37.611473
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Аврора ",
+        "Run": 3,
+        "Seats": 338,
+        "Latitude": 55.759157,
+        "Longitude": 37.645708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Аквариум ",
+        "Run": 2,
+        "Seats": 600,
+        "Latitude": 55.76749154922368,
+        "Longitude": 37.59480267864476
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Арс ",
+        "Run": 2,
+        "Seats": 254,
+        "Latitude": 55.74806146601852,
+        "Longitude": 37.58749976700312
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Баррикады ",
+        "Run": 2,
+        "Seats": 441,
+        "Latitude": 55.76064794396243,
+        "Longitude": 37.579330860186516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Дзержинский ПКиО ",
+        "Run": 2,
+        "Seats": 500,
+        "Latitude": 55.83032412781143,
+        "Longitude": 37.61469840946716
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Динамо ",
+        "Run": 1,
+        "Seats": 553,
+        "Latitude": 55.79618060753062,
+        "Longitude": 37.555168887144774
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Диск ",
+        "Run": 3,
+        "Seats": 216,
+        "Latitude": 55.809621,
+        "Longitude": 37.634416
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Заря ",
+        "Run": 3,
+        "Seats": 263,
+        "Latitude": 55.745524,
+        "Longitude": 37.626412
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Измайловский ПКиО имени Сталина ",
+        "Run": 2,
+        "Seats": 815,
+        "Latitude": 55.77299499453838,
+        "Longitude": 37.76126878218039
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "им. III Интернационала ",
+        "Run": 2,
+        "Seats": 426,
+        "Latitude": 55.77323586956071,
+        "Longitude": 37.67796359405088
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Искра ",
+        "Run": 3,
+        "Seats": 210,
+        "Latitude": 55.81168032493068,
+        "Longitude": 37.57701676520979
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Кадр ",
+        "Run": 3,
+        "Seats": 312,
+        "Latitude": 55.74452,
+        "Longitude": 37.579277
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Кинозал короткометражного фильма ",
+        "Run": null,
+        "Seats": 151,
+        "Latitude": 55.757521,
+        "Longitude": 37.616369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Кинотеатр повторного фильма ",
+        "Run": 2,
+        "Seats": 480,
+        "Latitude": 55.757288,
+        "Longitude": 37.599238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Луч ",
+        "Run": 2,
+        "Seats": 403,
+        "Latitude": 55.791681890731304,
+        "Longitude": 37.68025349659428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Мир ",
+        "Run": 2,
+        "Seats": 361,
+        "Latitude": 55.79283816599655,
+        "Longitude": 37.59796976091867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Молот ",
+        "Run": 2,
+        "Seats": 411,
+        "Latitude": 55.785928,
+        "Longitude": 37.675828
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Москва ",
+        "Run": 1,
+        "Seats": 747,
+        "Latitude": 55.769671725991564,
+        "Longitude": 37.59471331716628
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Наука и знание ",
+        "Run": 2,
+        "Seats": 293,
+        "Latitude": 55.752414,
+        "Longitude": 37.599597
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Новости дня ",
+        "Run": null,
+        "Seats": 280,
+        "Latitude": 55.762386822142076,
+        "Longitude": 37.602169862309225
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Октябрь ",
+        "Run": 2,
+        "Seats": 406,
+        "Latitude": 55.79929647698802,
+        "Longitude": 37.61501275297922
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Орион ",
+        "Run": 1,
+        "Seats": 707,
+        "Latitude": 55.795618,
+        "Longitude": 37.708499
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Перекоп ",
+        "Run": 1,
+        "Seats": 578,
+        "Latitude": 55.777151,
+        "Longitude": 37.638043
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "ПКиО Сокольники ",
+        "Run": 1,
+        "Seats": 700,
+        "Latitude": 55.792565,
+        "Longitude": 37.677725
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Родина ",
+        "Run": 1,
+        "Seats": 1270,
+        "Latitude": 55.78157,
+        "Longitude": 37.717869
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Сад им. Баумана ",
+        "Run": 2,
+        "Seats": 500,
+        "Latitude": 55.766581,
+        "Longitude": 37.659918
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Сад Эрмитаж ",
+        "Run": 1,
+        "Seats": 689,
+        "Latitude": 55.77080510877408,
+        "Longitude": 37.60954337553044
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Салют ",
+        "Run": 1,
+        "Seats": 351,
+        "Latitude": 55.792065,
+        "Longitude": 37.575222
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Смена ",
+        "Run": 2,
+        "Seats": 395,
+        "Latitude": 55.771020990551925,
+        "Longitude": 37.582989154099984
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Спартак ",
+        "Run": 2,
+        "Seats": 375,
+        "Latitude": 55.76354670647905,
+        "Longitude": 37.6548476160702
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Стереокино ",
+        "Run": null,
+        "Seats": 186,
+        "Latitude": 55.76037895000343,
+        "Longitude": 37.61916289759364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Таганский ",
+        "Run": 1,
+        "Seats": 819,
+        "Latitude": 55.74038353434052,
+        "Longitude": 37.654197842457705
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Таганский ПКиО ",
+        "Run": 2,
+        "Seats": 602,
+        "Latitude": 55.73776354041685,
+        "Longitude": 37.669487798068026
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Уран ",
+        "Run": 1,
+        "Seats": 910,
+        "Latitude": 55.77040452282041,
+        "Longitude": 37.63155372711536
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Форум ",
+        "Run": 1,
+        "Seats": 1222,
+        "Latitude": 55.773058432602916,
+        "Longitude": 37.62740330442969
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Хроника ",
+        "Run": null,
+        "Seats": 267,
+        "Latitude": 55.767124,
+        "Longitude": 37.63182
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Художественный ",
+        "Run": 1,
+        "Seats": 968,
+        "Latitude": 55.752369,
+        "Longitude": 37.602139
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Центральный ",
+        "Run": 1,
+        "Seats": 814,
+        "Latitude": 55.76592426048217,
+        "Longitude": 37.60529052843362
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "ЦПКиО им. Горького ",
+        "Run": 1,
+        "Seats": 810,
+        "Latitude": 55.73154109054722,
+        "Longitude": 37.60327706944183
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Шторм ",
+        "Run": 1,
+        "Seats": 638,
+        "Latitude": 55.78235111103543,
+        "Longitude": 37.67006121362364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Экран жизни ",
+        "Run": 1,
+        "Seats": 548,
+        "Latitude": 55.77321250837942,
+        "Longitude": 37.620671571295084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Экспресс ",
+        "Run": 2,
+        "Seats": 230,
+        "Latitude": 55.77035848488775,
+        "Longitude": 37.60921074307702
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Юный зритель ",
+        "Run": 2,
+        "Seats": 313,
+        "Latitude": 55.74853398105157,
+        "Longitude": 37.588827397745554
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Театр киноактера ",
+        "Run": 1,
+        "Seats": 924,
+        "Latitude": 55.756905640786755,
+        "Longitude": 37.58698523028461
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Колизей ",
+        "Run": 1,
+        "Seats": 904,
+        "Latitude": 55.761781,
+        "Longitude": 37.645941
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Метрополь ",
+        "Run": 1,
+        "Seats": 757,
+        "Latitude": 55.758448,
+        "Longitude": 37.621669
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Ударник ",
+        "Run": 1,
+        "Seats": 1587,
+        "Latitude": 55.74445,
+        "Longitude": 37.613072
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Авангард ",
+        "Run": 1,
+        "Seats": "489/26",
+        "Latitude": 55.731779,
+        "Longitude": 37.611473
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Аврора ",
+        "Run": 3,
+        "Seats": 338,
+        "Latitude": 55.759157,
+        "Longitude": 37.645708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Аквариум ",
+        "Run": 2,
+        "Seats": 732,
+        "Latitude": 55.76749154922368,
+        "Longitude": 37.59480267864476
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Арс ",
+        "Run": 2,
+        "Seats": "254/19",
+        "Latitude": 55.74806146601852,
+        "Longitude": 37.58749976700312
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Баррикады ",
+        "Run": 2,
+        "Seats": "409/42",
+        "Latitude": 55.76064794396243,
+        "Longitude": 37.579330860186516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Дзержинский ПКиО ",
+        "Run": 2,
+        "Seats": 440,
+        "Latitude": 55.83032412781143,
+        "Longitude": 37.61469840946716
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Динамо ",
+        "Run": 1,
+        "Seats": "553/25",
+        "Latitude": 55.79618060753062,
+        "Longitude": 37.555168887144774
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Диск ",
+        "Run": 3,
+        "Seats": 216,
+        "Latitude": 55.809621,
+        "Longitude": 37.634416
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Ждановский ПКиО (Таганский ПКиО) ",
+        "Run": 2,
+        "Seats": 633,
+        "Latitude": 55.739207,
+        "Longitude": 37.667761
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Заря ",
+        "Run": 3,
+        "Seats": 263,
+        "Latitude": 55.745524,
+        "Longitude": 37.626412
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Измайловский ПКиО имени Сталина ",
+        "Run": 2,
+        "Seats": 815,
+        "Latitude": 55.77299499453838,
+        "Longitude": 37.76126878218039
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "им. III Интернационала ",
+        "Run": 2,
+        "Seats": "431/30",
+        "Latitude": 55.77323586956071,
+        "Longitude": 37.67796359405088
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Искра ",
+        "Run": 3,
+        "Seats": 210,
+        "Latitude": 55.81168032493068,
+        "Longitude": 37.57701676520979
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Кадр ",
+        "Run": 3,
+        "Seats": "213/10",
+        "Latitude": 55.74452,
+        "Longitude": 37.579277
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Кинозал короткометражного фильма ",
+        "Run": null,
+        "Seats": 151,
+        "Latitude": 55.757521,
+        "Longitude": 37.616369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Кинотеатр повторного фильма ",
+        "Run": 2,
+        "Seats": "466/14",
+        "Latitude": 55.757288,
+        "Longitude": 37.599238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Красная Пресня ",
+        "Run": 3,
+        "Seats": 168,
+        "Latitude": 55.75519658574544,
+        "Longitude": 37.557861177072844
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Луч ",
+        "Run": 2,
+        "Seats": "403/16",
+        "Latitude": 55.791681890731304,
+        "Longitude": 37.68025349659428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Мир ",
+        "Run": 2,
+        "Seats": "338/24",
+        "Latitude": 55.79283816599655,
+        "Longitude": 37.59796976091867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Молот ",
+        "Run": 2,
+        "Seats": "411/33",
+        "Latitude": 55.785928,
+        "Longitude": 37.675828
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Москва ",
+        "Run": 1,
+        "Seats": 747,
+        "Latitude": 55.769671725991564,
+        "Longitude": 37.59471331716628
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Наука и знание ",
+        "Run": 2,
+        "Seats": "293/30",
+        "Latitude": 55.752414,
+        "Longitude": 37.599597
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Новости дня ",
+        "Run": null,
+        "Seats": "258/22",
+        "Latitude": 55.762386822142076,
+        "Longitude": 37.602169862309225
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Октябрь ",
+        "Run": 2,
+        "Seats": "406/30",
+        "Latitude": 55.79929647698802,
+        "Longitude": 37.61501275297922
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Орион ",
+        "Run": 1,
+        "Seats": "767/30",
+        "Latitude": 55.795618,
+        "Longitude": 37.708499
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Перекоп ",
+        "Run": 1,
+        "Seats": 578,
+        "Latitude": 55.777151,
+        "Longitude": 37.638043
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Открытый кинотеатр (Усачёвский сквер) ",
+        "Run": 3,
+        "Seats": 678,
+        "Latitude": 55.724584197535705,
+        "Longitude": 37.56102498972425
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Открытый кинотеатр в парке им. Воровского ",
+        "Run": 3,
+        "Seats": 588,
+        "Latitude": 55.81946149407082,
+        "Longitude": 37.50539195493388
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "ПКиО Сокольники ",
+        "Run": 1,
+        "Seats": 700,
+        "Latitude": 55.792565,
+        "Longitude": 37.677725
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Победа ",
+        "Run": 1,
+        "Seats": 770,
+        "Latitude": null,
+        "Longitude": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Призыв ",
+        "Run": 1,
+        "Seats": "376/10",
+        "Latitude": 55.717432889661616,
+        "Longitude": 37.4076118136208
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Родина ",
+        "Run": 1,
+        "Seats": "1270/48",
+        "Latitude": 55.78157,
+        "Longitude": 37.717869
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Сад им. Баумана ",
+        "Run": 2,
+        "Seats": 654,
+        "Latitude": 55.766581,
+        "Longitude": 37.659918
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Сад Эрмитаж ",
+        "Run": 1,
+        "Seats": "413/15",
+        "Latitude": 55.77080510877408,
+        "Longitude": 37.60954337553044
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Салют ",
+        "Run": 1,
+        "Seats": "628/13",
+        "Latitude": 55.792065,
+        "Longitude": 37.575222
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Смена ",
+        "Run": 2,
+        "Seats": "395/35",
+        "Latitude": 55.771020990551925,
+        "Longitude": 37.582989154099984
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Спартак ",
+        "Run": 2,
+        "Seats": "355/20",
+        "Latitude": 55.76354670647905,
+        "Longitude": 37.6548476160702
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Стереокино ",
+        "Run": null,
+        "Seats": 166,
+        "Latitude": 55.76037895000343,
+        "Longitude": 37.61916289759364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Таганский ",
+        "Run": 1,
+        "Seats": "809/70",
+        "Latitude": 55.74038353434052,
+        "Longitude": 37.654197842457705
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Уран ",
+        "Run": 1,
+        "Seats": "910/78",
+        "Latitude": 55.77040452282041,
+        "Longitude": 37.63155372711536
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Форум ",
+        "Run": 1,
+        "Seats": "1222/63",
+        "Latitude": 55.773058432602916,
+        "Longitude": 37.62740330442969
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Хроника ",
+        "Run": null,
+        "Seats": "267/35",
+        "Latitude": 55.767124,
+        "Longitude": 37.63182
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Художественный ",
+        "Run": 1,
+        "Seats": "968/50",
+        "Latitude": 55.752369,
+        "Longitude": 37.602139
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Центральный ",
+        "Run": 1,
+        "Seats": "814/44",
+        "Latitude": 55.76592426048217,
+        "Longitude": 37.60529052843362
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "ЦПКиО им. Горького ",
+        "Run": 1,
+        "Seats": 810,
+        "Latitude": 55.73154109054722,
+        "Longitude": 37.60327706944183
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Шторм ",
+        "Run": 1,
+        "Seats": "658/40",
+        "Latitude": 55.78235111103543,
+        "Longitude": 37.67006121362364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Экран жизни ",
+        "Run": 1,
+        "Seats": 569,
+        "Latitude": 55.77342398078649,
+        "Longitude": 37.611662769437814
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Экспресс ",
+        "Run": 2,
+        "Seats": "237/18",
+        "Latitude": 55.77321250837942,
+        "Longitude": 37.620671571295084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Эрмитаж ",
+        "Run": 1,
+        "Seats": "658/36",
+        "Latitude": 55.77035848488775,
+        "Longitude": 37.60921074307702
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Юный зритель ",
+        "Run": 2,
+        "Seats": "340/21",
+        "Latitude": 55.74853398105157,
+        "Longitude": 37.588827397745554
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Main Venue",
+        "Run": 1,
+        "Seats": 924,
+        "Latitude": 55.756905640786755,
+        "Longitude": 37.58698523028461
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Blue Venue",
+        "Run": 1,
+        "Seats": 196,
+        "Latitude": 55.756905640786755,
+        "Longitude": 37.58698523028461
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Колизей ",
+        "Run": 1,
+        "Seats": 904,
+        "Latitude": 55.761781,
+        "Longitude": 37.645941
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Метрополь ",
+        "Run": 1,
+        "Seats": 757,
+        "Latitude": 55.758448,
+        "Longitude": 37.621669
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Ударник ",
+        "Run": 1,
+        "Seats": 1587,
+        "Latitude": 55.74445,
+        "Longitude": 37.613072
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Авангард ",
+        "Run": 1,
+        "Seats": 515,
+        "Latitude": 55.731779,
+        "Longitude": 37.611473
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Аврора ",
+        "Run": 3,
+        "Seats": 338,
+        "Latitude": 55.759157,
+        "Longitude": 37.645708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Аквариум ",
+        "Run": 2,
+        "Seats": 732,
+        "Latitude": 55.76749154922368,
+        "Longitude": 37.59480267864476
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Арс ",
+        "Run": 2,
+        "Seats": 271,
+        "Latitude": 55.74806146601852,
+        "Longitude": 37.58749976700312
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Баррикады ",
+        "Run": 2,
+        "Seats": 455,
+        "Latitude": 55.76064794396243,
+        "Longitude": 37.579330860186516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Динамо ",
+        "Run": 1,
+        "Seats": 560,
+        "Latitude": 55.79618060753062,
+        "Longitude": 37.555168887144774
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Диск ",
+        "Run": 3,
+        "Seats": 216,
+        "Latitude": 55.809621,
+        "Longitude": 37.634416
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Ждановский ПКиО ",
+        "Run": 2,
+        "Seats": 596,
+        "Latitude": 55.739207,
+        "Longitude": 37.667761
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Заря ",
+        "Run": 3,
+        "Seats": 262,
+        "Latitude": 55.745524,
+        "Longitude": 37.626412
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Измайловский ПКиО имени Сталина ",
+        "Run": 2,
+        "Seats": 815,
+        "Latitude": 55.77299499453838,
+        "Longitude": 37.76126878218039
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "им. Моссовета ",
+        "Run": 1,
+        "Seats": 705,
+        "Latitude": 55.716276142721824,
+        "Longitude": 37.5739001982771
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "им. III Интернационала ",
+        "Run": 2,
+        "Seats": 455,
+        "Latitude": 55.77323586956071,
+        "Longitude": 37.67796359405088
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Искра ",
+        "Run": 3,
+        "Seats": 210,
+        "Latitude": 55.81168032493068,
+        "Longitude": 37.57701676520979
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Кадр ",
+        "Run": 3,
+        "Seats": 325,
+        "Latitude": 55.74452,
+        "Longitude": 37.579277
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Кинозал короткометражного фильма ",
+        "Run": null,
+        "Seats": 151,
+        "Latitude": 55.757521,
+        "Longitude": 37.616369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Кинотеатр повторного фильма ",
+        "Run": 2,
+        "Seats": 480,
+        "Latitude": 55.757288,
+        "Longitude": 37.599238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Луч ",
+        "Run": 2,
+        "Seats": 419,
+        "Latitude": 55.791681890731304,
+        "Longitude": 37.68025349659428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Маяк 2-х зальный ",
+        "Run": 1,
+        "Seats": 306,
+        "Latitude": 55.72449012452377,
+        "Longitude": 37.664848882933924
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Мир ",
+        "Run": 2,
+        "Seats": 362,
+        "Latitude": 55.79283816599655,
+        "Longitude": 37.59796976091867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Молот ",
+        "Run": 2,
+        "Seats": 444,
+        "Latitude": 55.785928,
+        "Longitude": 37.675828
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Москва ",
+        "Run": 1,
+        "Seats": 800,
+        "Latitude": 55.769671725991564,
+        "Longitude": 37.59471331716628
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Наука и знание ",
+        "Run": 2,
+        "Seats": 323,
+        "Latitude": 55.752414,
+        "Longitude": 37.599597
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Новости дня ",
+        "Run": null,
+        "Seats": 272,
+        "Latitude": 55.762386822142076,
+        "Longitude": 37.602169862309225
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Октябрь ",
+        "Run": 2,
+        "Seats": 436,
+        "Latitude": 55.79929647698802,
+        "Longitude": 37.61501275297922
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Орион ",
+        "Run": 1,
+        "Seats": 701,
+        "Latitude": 55.795618,
+        "Longitude": 37.708499
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Перекоп ",
+        "Run": 1,
+        "Seats": 584,
+        "Latitude": 55.777151,
+        "Longitude": 37.638043
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "ПКиО Сокольники ",
+        "Run": 1,
+        "Seats": 700,
+        "Latitude": 55.792565,
+        "Longitude": 37.677725
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Призыв ",
+        "Run": 1,
+        "Seats": 386,
+        "Latitude": 55.717432889661616,
+        "Longitude": 37.4076118136208
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Родина 2-х зальный ",
+        "Run": 1,
+        "Seats": 1318,
+        "Latitude": 55.78157,
+        "Longitude": 37.717869
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Салют 2-х зальный ",
+        "Run": 1,
+        "Seats": 655,
+        "Latitude": 55.792065,
+        "Longitude": 37.575222
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Смена ",
+        "Run": 2,
+        "Seats": 430,
+        "Latitude": 55.771020990551925,
+        "Longitude": 37.582989154099984
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Спартак ",
+        "Run": 2,
+        "Seats": 376,
+        "Latitude": 55.76354670647905,
+        "Longitude": 37.6548476160702
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Стереокино ",
+        "Run": null,
+        "Seats": 166,
+        "Latitude": 55.76037895000343,
+        "Longitude": 37.61916289759364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Таганский ",
+        "Run": 1,
+        "Seats": 879,
+        "Latitude": 55.74038353434052,
+        "Longitude": 37.654197842457705
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Театр киноактера ",
+        "Run": 1,
+        "Seats": 924,
+        "Latitude": 55.756832,
+        "Longitude": 37.586203
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Уран ",
+        "Run": 1,
+        "Seats": 984,
+        "Latitude": 55.77040452282041,
+        "Longitude": 37.63155372711536
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Форум ",
+        "Run": 1,
+        "Seats": 1285,
+        "Latitude": 55.773058432602916,
+        "Longitude": 37.62740330442969
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Хроника ",
+        "Run": null,
+        "Seats": 296,
+        "Latitude": 55.767124,
+        "Longitude": 37.63182
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Художественный ",
+        "Run": 1,
+        "Seats": 1020,
+        "Latitude": 55.752369,
+        "Longitude": 37.602139
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Центральный ",
+        "Run": 1,
+        "Seats": 855,
+        "Latitude": 55.76592426048217,
+        "Longitude": 37.60529052843362
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "ЦПКиО им. Горького ",
+        "Run": 1,
+        "Seats": 757,
+        "Latitude": 55.73154109054722,
+        "Longitude": 37.60327706944183
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Шторм ",
+        "Run": 1,
+        "Seats": 678,
+        "Latitude": 55.78235111103543,
+        "Longitude": 37.67006121362364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Экран жизни ",
+        "Run": 1,
+        "Seats": 569,
+        "Latitude": 55.77342398078649,
+        "Longitude": 37.611662769437814
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Экспресс ",
+        "Run": 2,
+        "Seats": 262,
+        "Latitude": 55.77321250837942,
+        "Longitude": 37.620671571295084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Эрмитаж ",
+        "Run": 1,
+        "Seats": 704,
+        "Latitude": 55.77035848488775,
+        "Longitude": 37.60921074307702
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Юный зритель ",
+        "Run": 2,
+        "Seats": 361,
+        "Latitude": 55.74853398105157,
+        "Longitude": 37.588827397745554
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Колизей ",
+        "Run": 1,
+        "Seats": 904,
+        "Latitude": 55.761781,
+        "Longitude": 37.645941
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Метрополь ",
+        "Run": 1,
+        "Seats": 757,
+        "Latitude": 55.758448,
+        "Longitude": 37.621669
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Ударник ",
+        "Run": 1,
+        "Seats": 1587,
+        "Latitude": 55.74445,
+        "Longitude": 37.613072
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Авангард ",
+        "Run": 1,
+        "Seats": 515,
+        "Latitude": 55.731779,
+        "Longitude": 37.611473
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Аврора ",
+        "Run": 3,
+        "Seats": 338,
+        "Latitude": 55.759157,
+        "Longitude": 37.645708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Аквариум ",
+        "Run": 2,
+        "Seats": 732,
+        "Latitude": 55.76749154922368,
+        "Longitude": 37.59480267864476
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Арс ",
+        "Run": 2,
+        "Seats": 271,
+        "Latitude": 55.74806146601852,
+        "Longitude": 37.58749976700312
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Баррикады ",
+        "Run": 2,
+        "Seats": 455,
+        "Latitude": 55.76064794396243,
+        "Longitude": 37.579330860186516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "ВСХВ большой зал ",
+        "Run": 1,
+        "Seats": 740,
+        "Latitude": 55.831674872324214,
+        "Longitude": 37.63130193594137
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "ВСХВ малый зал ",
+        "Run": 2,
+        "Seats": 504,
+        "Latitude": 55.831674872324214,
+        "Longitude": 37.63130193594137
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Дзержинский ПКиО ",
+        "Run": 2,
+        "Seats": 648,
+        "Latitude": 55.83032412781143,
+        "Longitude": 37.61469840946716
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Динамо ",
+        "Run": 1,
+        "Seats": 560,
+        "Latitude": 55.79618060753062,
+        "Longitude": 37.555168887144774
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Диск ",
+        "Run": 3,
+        "Seats": 216,
+        "Latitude": 55.809621,
+        "Longitude": 37.634416
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Ждановский ПКиО ",
+        "Run": 2,
+        "Seats": 596,
+        "Latitude": 55.739207,
+        "Longitude": 37.667761
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Заря ",
+        "Run": 3,
+        "Seats": 262,
+        "Latitude": 55.745524,
+        "Longitude": 37.626412
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "им. Моссовета ",
+        "Run": 1,
+        "Seats": 705,
+        "Latitude": 55.716276142721824,
+        "Longitude": 37.5739001982771
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "им. III Интернационала ",
+        "Run": 2,
+        "Seats": 455,
+        "Latitude": 55.77323586956071,
+        "Longitude": 37.67796359405088
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Искра ",
+        "Run": 3,
+        "Seats": 210,
+        "Latitude": 55.81168032493068,
+        "Longitude": 37.57701676520979
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Кадр ",
+        "Run": 3,
+        "Seats": 325,
+        "Latitude": 55.74452,
+        "Longitude": 37.579277
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Кинозал короткометражного фильма ",
+        "Run": null,
+        "Seats": 151,
+        "Latitude": 55.757521,
+        "Longitude": 37.616369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Кинотеатр повторного фильма ",
+        "Run": 2,
+        "Seats": 480,
+        "Latitude": 55.757288,
+        "Longitude": 37.599238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Красная Пресня ",
+        "Run": 3,
+        "Seats": 185,
+        "Latitude": 55.75519658574544,
+        "Longitude": 37.557861177072844
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Луч ",
+        "Run": 2,
+        "Seats": 419,
+        "Latitude": 55.791681890731304,
+        "Longitude": 37.68025349659428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Маяк 2-х зальный ",
+        "Run": 1,
+        "Seats": 306,
+        "Latitude": 55.72449012452377,
+        "Longitude": 37.664848882933924
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Мир ",
+        "Run": 2,
+        "Seats": 362,
+        "Latitude": 55.79283816599655,
+        "Longitude": 37.59796976091867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Молот ",
+        "Run": 2,
+        "Seats": 444,
+        "Latitude": 55.785928,
+        "Longitude": 37.675828
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Москва ",
+        "Run": 1,
+        "Seats": 800,
+        "Latitude": 55.769671725991564,
+        "Longitude": 37.59471331716628
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Наука и знание ",
+        "Run": 2,
+        "Seats": 323,
+        "Latitude": 55.752414,
+        "Longitude": 37.599597
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Новости дня ",
+        "Run": null,
+        "Seats": 272,
+        "Latitude": 55.762386822142076,
+        "Longitude": 37.602169862309225
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Октябрь ",
+        "Run": 2,
+        "Seats": 436,
+        "Latitude": 55.79929647698802,
+        "Longitude": 37.61501275297922
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Орион ",
+        "Run": 1,
+        "Seats": 701,
+        "Latitude": 55.795618,
+        "Longitude": 37.708499
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Открытый кинотеатр (Усачёвский сквер) ",
+        "Run": 3,
+        "Seats": 670,
+        "Latitude": 55.724584197535705,
+        "Longitude": 37.56102498972425
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Открытый кинотеатр в парке им. Воровского ",
+        "Run": 3,
+        "Seats": 588,
+        "Latitude": 55.81946149407082,
+        "Longitude": 37.50539195493388
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Перекоп ",
+        "Run": 1,
+        "Seats": 584,
+        "Latitude": 55.777151,
+        "Longitude": 37.638043
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "ПКиО Сокольники ",
+        "Run": 1,
+        "Seats": 700,
+        "Latitude": 55.792565,
+        "Longitude": 37.677725
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Призыв ",
+        "Run": 1,
+        "Seats": 386,
+        "Latitude": 55.717432889661616,
+        "Longitude": 37.4076118136208
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Родина 2-х зальный ",
+        "Run": 1,
+        "Seats": 1318,
+        "Latitude": 55.78157,
+        "Longitude": 37.717869
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Сад им. Баумана ",
+        "Run": 2,
+        "Seats": 654,
+        "Latitude": 55.766581,
+        "Longitude": 37.659918
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Сад Эрмитаж ",
+        "Run": 1,
+        "Seats": 428,
+        "Latitude": 55.77080510877408,
+        "Longitude": 37.60954337553044
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Салют 2-х зальный ",
+        "Run": 1,
+        "Seats": 655,
+        "Latitude": 55.792065,
+        "Longitude": 37.575222
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Смена ",
+        "Run": 2,
+        "Seats": 430,
+        "Latitude": 55.771020990551925,
+        "Longitude": 37.582989154099984
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Спартак ",
+        "Run": 2,
+        "Seats": 376,
+        "Latitude": 55.76354670647905,
+        "Longitude": 37.6548476160702
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Стереокино ",
+        "Run": null,
+        "Seats": 166,
+        "Latitude": 55.76037895000343,
+        "Longitude": 37.61916289759364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Таганский ",
+        "Run": 1,
+        "Seats": 879,
+        "Latitude": 55.74038353434052,
+        "Longitude": 37.654197842457705
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Театр киноактера ",
+        "Run": 1,
+        "Seats": 924,
+        "Latitude": 55.756832,
+        "Longitude": 37.586203
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Уран ",
+        "Run": 1,
+        "Seats": 984,
+        "Latitude": 55.77040452282041,
+        "Longitude": 37.63155372711536
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Форум ",
+        "Run": 1,
+        "Seats": 1285,
+        "Latitude": 55.773058432602916,
+        "Longitude": 37.62740330442969
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Хроника ",
+        "Run": null,
+        "Seats": 296,
+        "Latitude": 55.767124,
+        "Longitude": 37.63182
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Художественный ",
+        "Run": 1,
+        "Seats": 1020,
+        "Latitude": 55.752369,
+        "Longitude": 37.602139
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Центральный ",
+        "Run": 1,
+        "Seats": 855,
+        "Latitude": 55.76592426048217,
+        "Longitude": 37.60529052843362
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "ЦПКиО им. Горького ",
+        "Run": 1,
+        "Seats": 757,
+        "Latitude": 55.73154109054722,
+        "Longitude": 37.60327706944183
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Шторм ",
+        "Run": 1,
+        "Seats": 678,
+        "Latitude": 55.78235111103543,
+        "Longitude": 37.67006121362364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Экран жизни ",
+        "Run": 1,
+        "Seats": 569,
+        "Latitude": 55.77342398078649,
+        "Longitude": 37.611662769437814
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Экспресс ",
+        "Run": 2,
+        "Seats": 262,
+        "Latitude": 55.77321250837942,
+        "Longitude": 37.620671571295084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Эрмитаж ",
+        "Run": 1,
+        "Seats": 704,
+        "Latitude": 55.77035848488775,
+        "Longitude": 37.60921074307702
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Юный зритель ",
+        "Run": 2,
+        "Seats": 361,
+        "Latitude": 55.74853398105157,
+        "Longitude": 37.588827397745554
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Авангард ",
+        "Run": 2,
+        "Seats": 515,
+        "Latitude": 55.731779,
+        "Longitude": 37.611473
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Аврора ",
+        "Run": 3,
+        "Seats": 314,
+        "Latitude": 55.759157,
+        "Longitude": 37.645708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Арс ",
+        "Run": 2,
+        "Seats": 271,
+        "Latitude": 55.74806146601852,
+        "Longitude": 37.58749976700312
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Аквариум ",
+        "Run": 2,
+        "Seats": 732,
+        "Latitude": 55.76749154922368,
+        "Longitude": 37.59480267864476
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Баррикады ",
+        "Run": 2,
+        "Seats": 455,
+        "Latitude": 55.76064794396243,
+        "Longitude": 37.579330860186516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Динамо ",
+        "Run": 1,
+        "Seats": 560,
+        "Latitude": 55.79618060753062,
+        "Longitude": 37.555168887144774
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Диск ",
+        "Run": 3,
+        "Seats": 207,
+        "Latitude": 55.809621,
+        "Longitude": 37.634416
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Ждановский ПКиО ",
+        "Run": 2,
+        "Seats": 584,
+        "Latitude": 55.739207,
+        "Longitude": 37.667761
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Заря ",
+        "Run": 3,
+        "Seats": 242,
+        "Latitude": 55.745524,
+        "Longitude": 37.626412
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "им. Моссовета ",
+        "Run": 1,
+        "Seats": 705,
+        "Latitude": 55.716276142721824,
+        "Longitude": 37.5739001982771
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "им. III Интернационала ",
+        "Run": 2,
+        "Seats": 455,
+        "Latitude": 55.77323586956071,
+        "Longitude": 37.67796359405088
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Искра ",
+        "Run": 3,
+        "Seats": 210,
+        "Latitude": 55.81168032493068,
+        "Longitude": 37.57701676520979
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Кадр ",
+        "Run": 3,
+        "Seats": 325,
+        "Latitude": 55.74452,
+        "Longitude": 37.579277
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Кинозал короткометражного фильма ",
+        "Run": null,
+        "Seats": 151,
+        "Latitude": 55.757521,
+        "Longitude": 37.616369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Кинотеатр повторного фильма ",
+        "Run": 2,
+        "Seats": 440,
+        "Latitude": 55.757288,
+        "Longitude": 37.599238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Колизей ",
+        "Run": 1,
+        "Seats": 904,
+        "Latitude": 55.761781,
+        "Longitude": 37.645941
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Луч ",
+        "Run": 2,
+        "Seats": 375,
+        "Latitude": 55.791681890731304,
+        "Longitude": 37.68025349659428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Маяк ",
+        "Run": 3,
+        "Seats": 306,
+        "Latitude": 55.72449012452377,
+        "Longitude": 37.664848882933924
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Метрополь ",
+        "Run": 1,
+        "Seats": 757,
+        "Latitude": 55.758448,
+        "Longitude": 37.621669
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Мир ",
+        "Run": 2,
+        "Seats": 362,
+        "Latitude": 55.79283816599655,
+        "Longitude": 37.59796976091867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Молот ",
+        "Run": 2,
+        "Seats": 442,
+        "Latitude": 55.785928,
+        "Longitude": 37.675828
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Москва ",
+        "Run": 1,
+        "Seats": 791,
+        "Latitude": 55.769671725991564,
+        "Longitude": 37.59471331716628
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Наука и знание ",
+        "Run": 2,
+        "Seats": 323,
+        "Latitude": 55.752414,
+        "Longitude": 37.599597
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Новости дня ",
+        "Run": null,
+        "Seats": 272,
+        "Latitude": 55.762386822142076,
+        "Longitude": 37.602169862309225
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Октябрь ",
+        "Run": 2,
+        "Seats": 436,
+        "Latitude": 55.79929647698802,
+        "Longitude": 37.61501275297922
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Орион ",
+        "Run": 1,
+        "Seats": 701,
+        "Latitude": 55.795618,
+        "Longitude": 37.708499
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Перекоп ",
+        "Run": 1,
+        "Seats": 590,
+        "Latitude": 55.777151,
+        "Longitude": 37.638043
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "ПКиО Сокольники ",
+        "Run": 1,
+        "Seats": 700,
+        "Latitude": 55.792565,
+        "Longitude": 37.677725
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Призыв ",
+        "Run": 1,
+        "Seats": 386,
+        "Latitude": 55.717432889661616,
+        "Longitude": 37.4076118136208
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Родина ",
+        "Run": 1,
+        "Seats": 1313,
+        "Latitude": 55.78157,
+        "Longitude": 37.717869
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Сад им. Баумана ",
+        "Run": 1,
+        "Seats": 708,
+        "Latitude": 55.766581,
+        "Longitude": 37.659918
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Салют 2-х зальный ",
+        "Run": 1,
+        "Seats": 642,
+        "Latitude": 55.792065,
+        "Longitude": 37.575222
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Смена ",
+        "Run": 2,
+        "Seats": 430,
+        "Latitude": 55.771020990551925,
+        "Longitude": 37.582989154099984
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Спартак ",
+        "Run": 3,
+        "Seats": 344,
+        "Latitude": 55.76354670647905,
+        "Longitude": 37.6548476160702
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Стереокино ",
+        "Run": null,
+        "Seats": 178,
+        "Latitude": 55.76037895000343,
+        "Longitude": 37.61916289759364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Таганский ",
+        "Run": 1,
+        "Seats": 809,
+        "Latitude": 55.74038353434052,
+        "Longitude": 37.654197842457705
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Театр киноактера ",
+        "Run": 1,
+        "Seats": 924,
+        "Latitude": 55.756832,
+        "Longitude": 37.586203
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Ударник 2-х зальный ",
+        "Run": 1,
+        "Seats": 1998,
+        "Latitude": 55.74445,
+        "Longitude": 37.613072
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Уран ",
+        "Run": 1,
+        "Seats": 984,
+        "Latitude": 55.77040452282041,
+        "Longitude": 37.63155372711536
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Форум ",
+        "Run": 1,
+        "Seats": 1273,
+        "Latitude": 55.773058432602916,
+        "Longitude": 37.62740330442969
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Хроника ",
+        "Run": null,
+        "Seats": 296,
+        "Latitude": 55.767124,
+        "Longitude": 37.63182
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Художественный ",
+        "Run": 1,
+        "Seats": 1020,
+        "Latitude": 55.752369,
+        "Longitude": 37.602139
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Центральный ",
+        "Run": 1,
+        "Seats": 850,
+        "Latitude": 55.76592426048217,
+        "Longitude": 37.60529052843362
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "ЦПКиО им. Горького ",
+        "Run": 1,
+        "Seats": 757,
+        "Latitude": 55.73154109054722,
+        "Longitude": 37.60327706944183
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Шторм ",
+        "Run": 1,
+        "Seats": 656,
+        "Latitude": 55.78235111103543,
+        "Longitude": 37.67006121362364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Экран жизни ",
+        "Run": 1,
+        "Seats": 569,
+        "Latitude": 55.77342398078649,
+        "Longitude": 37.611662769437814
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Экспресс ",
+        "Run": 3,
+        "Seats": 262,
+        "Latitude": 55.77321250837942,
+        "Longitude": 37.620671571295084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Эрмитаж ",
+        "Run": 1,
+        "Seats": 652,
+        "Latitude": 55.77035848488775,
+        "Longitude": 37.60921074307702
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Юный зритель ",
+        "Run": 2,
+        "Seats": 353,
+        "Latitude": 55.74853398105157,
+        "Longitude": 37.588827397745554
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Авангард ",
+        "Run": 2,
+        "Seats": 515,
+        "Latitude": 55.731779,
+        "Longitude": 37.611473
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Аврора ",
+        "Run": 3,
+        "Seats": 314,
+        "Latitude": 55.759157,
+        "Longitude": 37.645708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Аквариум ",
+        "Run": 2,
+        "Seats": 732,
+        "Latitude": 55.76749154922368,
+        "Longitude": 37.59480267864476
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Арс ",
+        "Run": 2,
+        "Seats": 271,
+        "Latitude": 55.74806146601852,
+        "Longitude": 37.58749976700312
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Баррикады ",
+        "Run": 2,
+        "Seats": 455,
+        "Latitude": 55.76064794396243,
+        "Longitude": 37.579330860186516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Дзержинский ПКиО ",
+        "Run": 2,
+        "Seats": 652,
+        "Latitude": 55.83032412781143,
+        "Longitude": 37.61469840946716
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Диск ",
+        "Run": 3,
+        "Seats": 207,
+        "Latitude": 55.809621,
+        "Longitude": 37.634416
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Ждановский ПКиО ",
+        "Run": 2,
+        "Seats": 584,
+        "Latitude": 55.739207,
+        "Longitude": 37.667761
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Заря ",
+        "Run": 3,
+        "Seats": 242,
+        "Latitude": 55.745524,
+        "Longitude": 37.626412
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Измайловский ПКиО имени Сталина ",
+        "Run": 3,
+        "Seats": 600,
+        "Latitude": 55.77299499453838,
+        "Longitude": 37.76126878218039
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "им. Моссовета ",
+        "Run": 1,
+        "Seats": 705,
+        "Latitude": 55.716276142721824,
+        "Longitude": 37.5739001982771
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "им. III Интернационала ",
+        "Run": 2,
+        "Seats": 455,
+        "Latitude": 55.77323586956071,
+        "Longitude": 37.67796359405088
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Искра ",
+        "Run": 3,
+        "Seats": 210,
+        "Latitude": 55.81168032493068,
+        "Longitude": 37.57701676520979
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Кадр ",
+        "Run": 3,
+        "Seats": 325,
+        "Latitude": 55.74452,
+        "Longitude": 37.579277
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Кинозал короткометражного фильма ",
+        "Run": null,
+        "Seats": 151,
+        "Latitude": 55.757521,
+        "Longitude": 37.616369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Кинотеатр повторного фильма ",
+        "Run": 2,
+        "Seats": 440,
+        "Latitude": 55.757288,
+        "Longitude": 37.599238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Колизей ",
+        "Run": 1,
+        "Seats": 904,
+        "Latitude": 55.761781,
+        "Longitude": 37.645941
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Красная Пресня ",
+        "Run": 3,
+        "Seats": 185,
+        "Latitude": 55.75519658574544,
+        "Longitude": 37.557861177072844
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Луч ",
+        "Run": 2,
+        "Seats": 375,
+        "Latitude": 55.791681890731304,
+        "Longitude": 37.68025349659428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Маяк 2-х зальный ",
+        "Run": 3,
+        "Seats": 306,
+        "Latitude": 55.72449012452377,
+        "Longitude": 37.664848882933924
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Метрополь 3-х зальный ",
+        "Run": 1,
+        "Seats": 757,
+        "Latitude": 55.758448,
+        "Longitude": 37.621669
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Мир ",
+        "Run": 2,
+        "Seats": 362,
+        "Latitude": 55.79283816599655,
+        "Longitude": 37.59796976091867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Молот ",
+        "Run": 2,
+        "Seats": 442,
+        "Latitude": 55.785928,
+        "Longitude": 37.675828
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Москва ",
+        "Run": 1,
+        "Seats": 791,
+        "Latitude": 55.769671725991564,
+        "Longitude": 37.59471331716628
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Наука и знание ",
+        "Run": 2,
+        "Seats": 323,
+        "Latitude": 55.752414,
+        "Longitude": 37.599597
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Новости дня ",
+        "Run": null,
+        "Seats": 272,
+        "Latitude": 55.762386822142076,
+        "Longitude": 37.602169862309225
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Октябрь ",
+        "Run": 2,
+        "Seats": 436,
+        "Latitude": 55.79929647698802,
+        "Longitude": 37.61501275297922
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Орион ",
+        "Run": 1,
+        "Seats": 701,
+        "Latitude": 55.795618,
+        "Longitude": 37.708499
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Открытый кинотеатр (Усачёвский сквер) ",
+        "Run": 3,
+        "Seats": 595,
+        "Latitude": 55.724584197535705,
+        "Longitude": 37.56102498972425
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Открытый кинотеатр в парке им. Воровского ",
+        "Run": 3,
+        "Seats": 588,
+        "Latitude": 55.81946149407082,
+        "Longitude": 37.50539195493388
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Перекоп ",
+        "Run": 1,
+        "Seats": 590,
+        "Latitude": 55.777151,
+        "Longitude": 37.638043
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "ПКиО Сокольники ",
+        "Run": 1,
+        "Seats": 700,
+        "Latitude": 55.792565,
+        "Longitude": 37.677725
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Призыв ",
+        "Run": 1,
+        "Seats": 386,
+        "Latitude": 55.717432889661616,
+        "Longitude": 37.4076118136208
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Родина 2-х зальный ",
+        "Run": 1,
+        "Seats": 1313,
+        "Latitude": 55.78157,
+        "Longitude": 37.717869
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Сад им. Баумана ",
+        "Run": 1,
+        "Seats": 708,
+        "Latitude": 55.766581,
+        "Longitude": 37.659918
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Сад Эрмитаж ",
+        "Run": 1,
+        "Seats": 428,
+        "Latitude": 55.77080510877408,
+        "Longitude": 37.60954337553044
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Салют 2-х зальный ",
+        "Run": 1,
+        "Seats": 642,
+        "Latitude": 55.792065,
+        "Longitude": 37.575222
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Смена ",
+        "Run": 2,
+        "Seats": 430,
+        "Latitude": 55.771020990551925,
+        "Longitude": 37.582989154099984
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Спартак ",
+        "Run": 3,
+        "Seats": 344,
+        "Latitude": 55.76354670647905,
+        "Longitude": 37.6548476160702
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Стереокино ",
+        "Run": null,
+        "Seats": 178,
+        "Latitude": 55.76037895000343,
+        "Longitude": 37.61916289759364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Таганский ",
+        "Run": 1,
+        "Seats": 809,
+        "Latitude": 55.74038353434052,
+        "Longitude": 37.654197842457705
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Театр киноактера ",
+        "Run": 1,
+        "Seats": 924,
+        "Latitude": 55.756832,
+        "Longitude": 37.586203
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Ударник 2-х зальный ",
+        "Run": 1,
+        "Seats": 1998,
+        "Latitude": 55.74445,
+        "Longitude": 37.613072
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Уран ",
+        "Run": 1,
+        "Seats": 984,
+        "Latitude": 55.77040452282041,
+        "Longitude": 37.63155372711536
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Форум ",
+        "Run": 1,
+        "Seats": 1273,
+        "Latitude": 55.773058432602916,
+        "Longitude": 37.62740330442969
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Хроника ",
+        "Run": null,
+        "Seats": 296,
+        "Latitude": 55.767124,
+        "Longitude": 37.63182
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Художественный ",
+        "Run": 1,
+        "Seats": 1020,
+        "Latitude": 55.752369,
+        "Longitude": 37.602139
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Центральный ",
+        "Run": 1,
+        "Seats": 850,
+        "Latitude": 55.76592426048217,
+        "Longitude": 37.60529052843362
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "ЦПКиО им. Горького ",
+        "Run": 1,
+        "Seats": 757,
+        "Latitude": 55.73154109054722,
+        "Longitude": 37.60327706944183
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Шторм ",
+        "Run": 1,
+        "Seats": 656,
+        "Latitude": 55.78235111103543,
+        "Longitude": 37.67006121362364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Экран жизни ",
+        "Run": 1,
+        "Seats": 569,
+        "Latitude": 55.77342398078649,
+        "Longitude": 37.611662769437814
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Экспресс ",
+        "Run": 3,
+        "Seats": 262,
+        "Latitude": 55.77321250837942,
+        "Longitude": 37.620671571295084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Эрмитаж ",
+        "Run": 1,
+        "Seats": 652,
+        "Latitude": 55.77035848488775,
+        "Longitude": 37.60921074307702
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Юный зритель ",
+        "Run": 2,
+        "Seats": 353,
+        "Latitude": 55.74853398105157,
+        "Longitude": 37.588827397745554
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Авангард ",
+        "Run": 2,
+        "Seats": 463,
+        "Latitude": 55.731779,
+        "Longitude": 37.611473
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Аврора ",
+        "Run": 3,
+        "Seats": 306,
+        "Latitude": 55.759157,
+        "Longitude": 37.645708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Аквариум ",
+        "Run": 2,
+        "Seats": 732,
+        "Latitude": 55.76749154922368,
+        "Longitude": 37.59480267864476
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Баррикады ",
+        "Run": 2,
+        "Seats": 426,
+        "Latitude": 55.76064794396243,
+        "Longitude": 37.579330860186516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "ВСХВ большой зал ",
+        "Run": 1,
+        "Seats": 736,
+        "Latitude": 55.831674872324214,
+        "Longitude": 37.63130193594137
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "ВСХВ малый зал ",
+        "Run": 2,
+        "Seats": 438,
+        "Latitude": 55.831674872324214,
+        "Longitude": 37.63130193594137
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Дзержинский ПКиО ",
+        "Run": 2,
+        "Seats": 652,
+        "Latitude": 55.83032412781143,
+        "Longitude": 37.61469840946716
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Динамо ",
+        "Run": 1,
+        "Seats": 522,
+        "Latitude": 55.79618060753062,
+        "Longitude": 37.555168887144774
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Диск ",
+        "Run": 3,
+        "Seats": 207,
+        "Latitude": 55.809621,
+        "Longitude": 37.634416
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Дружба ",
+        "Run": 1,
+        "Seats": 277,
+        "Latitude": 55.79626860234792,
+        "Longitude": 37.512730548107776
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Заря ",
+        "Run": 3,
+        "Seats": 228,
+        "Latitude": 55.745524,
+        "Longitude": 37.626412
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Звезда ",
+        "Run": 1,
+        "Seats": 228,
+        "Latitude": 55.76002828365596,
+        "Longitude": 37.6571141119478
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Знамя ",
+        "Run": 1,
+        "Seats": 332,
+        "Latitude": 55.74813515028734,
+        "Longitude": 37.64490519799821
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Измайловский ПКиО имени Сталина ",
+        "Run": 3,
+        "Seats": 600,
+        "Latitude": 55.77299499453838,
+        "Longitude": 37.76126878218039
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "им. Моссовета ",
+        "Run": 1,
+        "Seats": 684,
+        "Latitude": 55.716276142721824,
+        "Longitude": 37.5739001982771
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Искра ",
+        "Run": 3,
+        "Seats": 210,
+        "Latitude": 55.81168032493068,
+        "Longitude": 37.57701676520979
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Кадр ",
+        "Run": 3,
+        "Seats": 325,
+        "Latitude": 55.74452,
+        "Longitude": 37.579277
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Кинозал короткометражного фильма ",
+        "Run": null,
+        "Seats": 151,
+        "Latitude": 55.757521,
+        "Longitude": 37.616369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Кинотеатр повторного фильма ",
+        "Run": 2,
+        "Seats": 440,
+        "Latitude": 55.757288,
+        "Longitude": 37.599238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Колизей ",
+        "Run": 1,
+        "Seats": 904,
+        "Latitude": 55.761781,
+        "Longitude": 37.645941
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Красная Пресня ",
+        "Run": 3,
+        "Seats": 185,
+        "Latitude": 55.75519658574544,
+        "Longitude": 37.557861177072844
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Луч ",
+        "Run": 2,
+        "Seats": 375,
+        "Latitude": 55.791681890731304,
+        "Longitude": 37.68025349659428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Маяк 2-х зальный ",
+        "Run": 3,
+        "Seats": 306,
+        "Latitude": 55.72449012452377,
+        "Longitude": 37.664848882933924
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Метрополь 3-х зальный ",
+        "Run": 1,
+        "Seats": 730,
+        "Latitude": 55.758448,
+        "Longitude": 37.621669
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Мир ",
+        "Run": 2,
+        "Seats": 323,
+        "Latitude": 55.79283816599655,
+        "Longitude": 37.59796976091867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Молот ",
+        "Run": 2,
+        "Seats": 328,
+        "Latitude": 55.785928,
+        "Longitude": 37.675828
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Москва",
+        "Run": 1,
+        "Seats": 791,
+        "Latitude": 55.769671725991564,
+        "Longitude": 37.59471331716628
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Наука и знание ",
+        "Run": 2,
+        "Seats": 237,
+        "Latitude": 55.74814594330477,
+        "Longitude": 37.587553398356306
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Новости дня ",
+        "Run": null,
+        "Seats": 259,
+        "Latitude": 55.762386822142076,
+        "Longitude": 37.602169862309225
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Октябрь ",
+        "Run": 2,
+        "Seats": 381,
+        "Latitude": 55.79929647698802,
+        "Longitude": 37.61501275297922
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Орион ",
+        "Run": 1,
+        "Seats": 659,
+        "Latitude": 55.795618,
+        "Longitude": 37.708499
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Открытый кинотеатр (Усачёвский сквер) ",
+        "Run": 3,
+        "Seats": 595,
+        "Latitude": 55.724584197535705,
+        "Longitude": 37.56102498972425
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Открытый кинотеатр в парке им. Воровского ",
+        "Run": 3,
+        "Seats": 588,
+        "Latitude": 55.81946149407082,
+        "Longitude": 37.50539195493388
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Перекоп ",
+        "Run": 1,
+        "Seats": 590,
+        "Latitude": 55.777151,
+        "Longitude": 37.638043
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "ПКиО Сокольники ",
+        "Run": 1,
+        "Seats": 701,
+        "Latitude": 55.792565,
+        "Longitude": 37.677725
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Призыв ",
+        "Run": 1,
+        "Seats": 386,
+        "Latitude": 55.717432889661616,
+        "Longitude": 37.4076118136208
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Радуга ",
+        "Run": 1,
+        "Seats": 440,
+        "Latitude": 55.77319966176864,
+        "Longitude": 37.67882190091637
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Родина 2-х зальный ",
+        "Run": 1,
+        "Seats": 1268,
+        "Latitude": 55.78157,
+        "Longitude": 37.717869
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Сад им. Баумана ",
+        "Run": 1,
+        "Seats": 708,
+        "Latitude": 55.766581,
+        "Longitude": 37.659918
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Сад Эрмитаж ",
+        "Run": 1,
+        "Seats": 428,
+        "Latitude": 55.77080510877408,
+        "Longitude": 37.60954337553044
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Салют 2-х зальный ",
+        "Run": 1,
+        "Seats": 642,
+        "Latitude": 55.792065,
+        "Longitude": 37.575222
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Смена ",
+        "Run": 2,
+        "Seats": 403,
+        "Latitude": 55.771020990551925,
+        "Longitude": 37.582989154099984
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Спартак ",
+        "Run": 3,
+        "Seats": 336,
+        "Latitude": 55.76354670647905,
+        "Longitude": 37.6548476160702
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Стереокино ",
+        "Run": null,
+        "Seats": 178,
+        "Latitude": 55.76037895000343,
+        "Longitude": 37.61916289759364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Таганский ",
+        "Run": 1,
+        "Seats": 793,
+        "Latitude": 55.74038353434052,
+        "Longitude": 37.654197842457705
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Ударник, включая малый и красный залы, 496 мест ",
+        "Run": 1,
+        "Seats": 2098,
+        "Latitude": 55.74445,
+        "Longitude": 37.613072
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Уран ",
+        "Run": 1,
+        "Seats": 937,
+        "Latitude": 55.77040452282041,
+        "Longitude": 37.63155372711536
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Форум ",
+        "Run": 1,
+        "Seats": 1257,
+        "Latitude": 55.773058432602916,
+        "Longitude": 37.62740330442969
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Хроника ",
+        "Run": null,
+        "Seats": 267,
+        "Latitude": 55.767124,
+        "Longitude": 37.63182
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Художественный ",
+        "Run": 1,
+        "Seats": 357,
+        "Latitude": 55.752369,
+        "Longitude": 37.602139
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Центральный ",
+        "Run": 1,
+        "Seats": 788,
+        "Latitude": 55.76592426048217,
+        "Longitude": 37.60529052843362
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "ЦПКиО им. Горького ",
+        "Run": 1,
+        "Seats": 742,
+        "Latitude": 55.73154109054722,
+        "Longitude": 37.60327706944183
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Шторм ",
+        "Run": 1,
+        "Seats": 622,
+        "Latitude": 55.78235111103543,
+        "Longitude": 37.67006121362364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Экран жизни ",
+        "Run": 2,
+        "Seats": 565,
+        "Latitude": 55.77342398078649,
+        "Longitude": 37.611662769437814
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Экспресс ",
+        "Run": 3,
+        "Seats": 253,
+        "Latitude": 55.77321250837942,
+        "Longitude": 37.620671571295084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Эрмитаж ",
+        "Run": 1,
+        "Seats": 652,
+        "Latitude": 55.77035848488775,
+        "Longitude": 37.60921074307702
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Юный зритель ",
+        "Run": 2,
+        "Seats": 353,
+        "Latitude": 55.74853398105157,
+        "Longitude": 37.588827397745554
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Авангард ",
+        "Run": 2,
+        "Seats": 463,
+        "Latitude": 55.731779,
+        "Longitude": 37.611473
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Аврора ",
+        "Run": 3,
+        "Seats": 306,
+        "Latitude": 55.759157,
+        "Longitude": 37.645708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Аквариум ",
+        "Run": 2,
+        "Seats": 732,
+        "Latitude": 55.76749154922368,
+        "Longitude": 37.59480267864476
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Баррикады ",
+        "Run": 2,
+        "Seats": 426,
+        "Latitude": 55.76064794396243,
+        "Longitude": 37.579330860186516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "ВСХВ большой зал ",
+        "Run": 1,
+        "Seats": 736,
+        "Latitude": 55.831674872324214,
+        "Longitude": 37.63130193594137
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "ВСХВ малый зал ",
+        "Run": 2,
+        "Seats": 438,
+        "Latitude": 55.831674872324214,
+        "Longitude": 37.63130193594137
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Дзержинский ПКиО ",
+        "Run": 2,
+        "Seats": 652,
+        "Latitude": 55.83032412781143,
+        "Longitude": 37.61469840946716
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Динамо ",
+        "Run": 1,
+        "Seats": 522,
+        "Latitude": 55.79618060753062,
+        "Longitude": 37.555168887144774
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Диск ",
+        "Run": 3,
+        "Seats": 207,
+        "Latitude": 55.809621,
+        "Longitude": 37.634416
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Дружба ",
+        "Run": 1,
+        "Seats": 277,
+        "Latitude": 55.79626860234792,
+        "Longitude": 37.512730548107776
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Заря ",
+        "Run": 3,
+        "Seats": 228,
+        "Latitude": 55.745524,
+        "Longitude": 37.626412
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Звезда ",
+        "Run": 1,
+        "Seats": 228,
+        "Latitude": 55.76002828365596,
+        "Longitude": 37.6571141119478
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Знамя ",
+        "Run": 1,
+        "Seats": 332,
+        "Latitude": 55.74813515028734,
+        "Longitude": 37.64490519799821
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Измайловский ПКиО имени Сталина ",
+        "Run": 3,
+        "Seats": 600,
+        "Latitude": 55.77299499453838,
+        "Longitude": 37.76126878218039
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "им. Моссовета ",
+        "Run": 1,
+        "Seats": 684,
+        "Latitude": 55.716276142721824,
+        "Longitude": 37.5739001982771
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Искра ",
+        "Run": 3,
+        "Seats": 210,
+        "Latitude": 55.81168032493068,
+        "Longitude": 37.57701676520979
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Кадр ",
+        "Run": 3,
+        "Seats": 325,
+        "Latitude": 55.74452,
+        "Longitude": 37.579277
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Кинозал короткометражного фильма ",
+        "Run": 3,
+        "Seats": 151,
+        "Latitude": 55.757521,
+        "Longitude": 37.616369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Кинотеатр повторного фильма ",
+        "Run": 2,
+        "Seats": 440,
+        "Latitude": 55.757288,
+        "Longitude": 37.599238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Колизей ",
+        "Run": 1,
+        "Seats": 904,
+        "Latitude": 55.761781,
+        "Longitude": 37.645941
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Луч ",
+        "Run": 2,
+        "Seats": 375,
+        "Latitude": 55.791681890731304,
+        "Longitude": 37.68025349659428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Маяк 2-х зальный ",
+        "Run": 3,
+        "Seats": 306,
+        "Latitude": 55.72449012452377,
+        "Longitude": 37.664848882933924
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Метрополь 3-х зальный ",
+        "Run": 1,
+        "Seats": 730,
+        "Latitude": 55.758448,
+        "Longitude": 37.621669
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Мир ",
+        "Run": 2,
+        "Seats": 323,
+        "Latitude": 55.79283816599655,
+        "Longitude": 37.59796976091867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Молния 2-х зальный ",
+        "Run": 1,
+        "Seats": 387,
+        "Latitude": 55.682472,
+        "Longitude": 37.571654
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Молот ",
+        "Run": 2,
+        "Seats": 328,
+        "Latitude": 55.785928,
+        "Longitude": 37.675828
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Москва",
+        "Run": 1,
+        "Seats": 791,
+        "Latitude": 55.769671725991564,
+        "Longitude": 37.59471331716628
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Наука и знание ",
+        "Run": 2,
+        "Seats": 237,
+        "Latitude": 55.74814594330477,
+        "Longitude": 37.587553398356306
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Новости дня ",
+        "Run": 3,
+        "Seats": 259,
+        "Latitude": 55.762386822142076,
+        "Longitude": 37.602169862309225
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Октябрь ",
+        "Run": 2,
+        "Seats": 381,
+        "Latitude": 55.79929647698802,
+        "Longitude": 37.61501275297922
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Орион ",
+        "Run": 1,
+        "Seats": 659,
+        "Latitude": 55.795618,
+        "Longitude": 37.708499
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Отдых ",
+        "Run": 1,
+        "Seats": 225,
+        "Latitude": 55.73262028126655,
+        "Longitude": 37.59489651255558
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Перекоп ",
+        "Run": 1,
+        "Seats": 590,
+        "Latitude": 55.777151,
+        "Longitude": 37.638043
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Пионер ",
+        "Run": 2,
+        "Seats": 355,
+        "Latitude": 55.74514068259107,
+        "Longitude": 37.55038335356596
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "ПКиО Сокольники ",
+        "Run": 1,
+        "Seats": 701,
+        "Latitude": 55.792565,
+        "Longitude": 37.677725
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Пламя 2-х зальный ",
+        "Run": 1,
+        "Seats": 590,
+        "Latitude": 55.75901565453023,
+        "Longitude": 37.580598513578416
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Призыв ",
+        "Run": 1,
+        "Seats": 386,
+        "Latitude": 55.717432889661616,
+        "Longitude": 37.4076118136208
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Радуга ",
+        "Run": 2,
+        "Seats": 440,
+        "Latitude": 55.77319966176864,
+        "Longitude": 37.67882190091637
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Родина 2-х зальный ",
+        "Run": 1,
+        "Seats": 1268,
+        "Latitude": 55.78157,
+        "Longitude": 37.717869
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Сад им. Баумана ",
+        "Run": 1,
+        "Seats": 708,
+        "Latitude": 55.766581,
+        "Longitude": 37.659918
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Сад Эрмитаж ",
+        "Run": 1,
+        "Seats": 428,
+        "Latitude": 55.77080510877408,
+        "Longitude": 37.60954337553044
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Салют 2-х зальный ",
+        "Run": 1,
+        "Seats": 642,
+        "Latitude": 55.792065,
+        "Longitude": 37.575222
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Слава 2-х зальный ",
+        "Run": 1,
+        "Seats": 880,
+        "Latitude": 55.76173081200837,
+        "Longitude": 37.77388895420797
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Смена ",
+        "Run": 2,
+        "Seats": 400,
+        "Latitude": 55.771020990551925,
+        "Longitude": 37.582989154099984
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Спартак ",
+        "Run": 3,
+        "Seats": 336,
+        "Latitude": 55.76354670647905,
+        "Longitude": 37.6548476160702
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Стереокино ",
+        "Run": null,
+        "Seats": 178,
+        "Latitude": 55.76037895000343,
+        "Longitude": 37.61916289759364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Таганский ",
+        "Run": 1,
+        "Seats": 793,
+        "Latitude": 55.74038353434052,
+        "Longitude": 37.654197842457705
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Ударник, включая малый и красный залы, 496 мест ",
+        "Run": 1,
+        "Seats": 2098,
+        "Latitude": 55.74445,
+        "Longitude": 37.613072
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Уран ",
+        "Run": 1,
+        "Seats": 937,
+        "Latitude": 55.77040452282041,
+        "Longitude": 37.63155372711536
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Форум ",
+        "Run": 1,
+        "Seats": 1191,
+        "Latitude": 55.773058432602916,
+        "Longitude": 37.62740330442969
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Хроника ",
+        "Run": 3,
+        "Seats": 267,
+        "Latitude": 55.767124,
+        "Longitude": 37.63182
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Художественный ",
+        "Run": 1,
+        "Seats": 994,
+        "Latitude": 55.752369,
+        "Longitude": 37.602139
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Центральный ",
+        "Run": 1,
+        "Seats": 788,
+        "Latitude": 55.76592426048217,
+        "Longitude": 37.60529052843362
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "ЦПКиО им. Горького ",
+        "Run": 1,
+        "Seats": 742,
+        "Latitude": 55.73154109054722,
+        "Longitude": 37.60327706944183
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Шторм ",
+        "Run": 1,
+        "Seats": 622,
+        "Latitude": 55.78235111103543,
+        "Longitude": 37.67006121362364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Экран жизни ",
+        "Run": 2,
+        "Seats": 565,
+        "Latitude": 55.77342398078649,
+        "Longitude": 37.611662769437814
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Экспресс ",
+        "Run": 3,
+        "Seats": 253,
+        "Latitude": 55.77321250837942,
+        "Longitude": 37.620671571295084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Эрмитаж ",
+        "Run": 1,
+        "Seats": 652,
+        "Latitude": 55.77035848488775,
+        "Longitude": 37.60921074307702
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "Cinema": "Юный зритель ",
+        "Run": 2,
+        "Seats": 351,
+        "Latitude": 55.74853398105157,
+        "Longitude": 37.588827397745554
+      }
+    }
+  ]
+}
